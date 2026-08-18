@@ -1,1 +1,101 @@
-
+Order_ID,Order_Date,Customer,Product,Category,Region,Quantity,Unit_Price,Sales,Profit
+ORD-0001,2025-12-13,Aarav Sharma,Monitor,Electronics,East,4,207.82,831.28,205.57
+ORD-0002,2025-09-16,Priya Reddy,Headset,Electronics,West,1,49.83,49.83,7.16
+ORD-0003,2025-01-04,Aarav Sharma,Backpack,Accessories,South,7,37.76,264.32,57.58
+ORD-0004,2025-06-22,Pooja Verma,Keyboard,Electronics,West,6,43.0,258.0,36.91
+ORD-0005,2025-05-16,Priya Reddy,Monitor,Electronics,West,2,213.8,427.6,72.18
+ORD-0006,2025-10-10,Pooja Verma,Laptop,Electronics,West,2,711.51,1423.02,250.03
+ORD-0007,2025-04-27,Rohan Das,Office Chair,Furniture,East,4,187.36,749.44,81.81
+ORD-0008,2025-07-06,Priya Reddy,Office Chair,Furniture,South,2,175.68,351.36,67.0
+ORD-0009,2025-12-16,Sneha Patel,Keyboard,Electronics,East,4,46.53,186.12,44.74
+ORD-0010,2025-11-24,Divya Nair,Monitor,Electronics,South,4,205.19,820.76,144.36
+ORD-0011,2025-06-11,Ananya Rao,Headset,Electronics,East,1,52.02,52.02,5.54
+ORD-0012,2025-06-11,Vikram Singh,Notebook,Office Supplies,North,4,8.66,34.64,7.39
+ORD-0013,2025-03-15,Rohan Das,Mouse,Electronics,West,7,26.92,188.44,43.07
+ORD-0014,2025-10-26,Rahul Kumar,Office Chair,Furniture,South,5,188.89,944.45,175.37
+ORD-0015,2025-01-25,Sneha Patel,Notebook,Office Supplies,South,3,8.02,24.06,2.84
+ORD-0016,2025-11-02,Rahul Kumar,Monitor,Electronics,South,7,224.24,1569.68,277.76
+ORD-0017,2025-10-02,Arjun Mehta,Printer,Electronics,East,1,165.77,165.77,20.37
+ORD-0018,2025-01-02,Rohan Das,Office Chair,Furniture,East,2,172.57,345.14,45.43
+ORD-0019,2025-11-24,Arjun Mehta,Office Chair,Furniture,South,2,193.34,386.68,61.75
+ORD-0020,2025-09-29,Divya Nair,Headset,Electronics,South,3,53.61,160.83,21.28
+ORD-0021,2025-06-07,Divya Nair,Laptop,Electronics,East,8,587.53,4700.24,1343.42
+ORD-0022,2025-02-05,Aarav Sharma,Mouse,Electronics,South,2,22.93,45.86,9.04
+ORD-0023,2025-09-28,Rahul Kumar,Headset,Electronics,South,8,59.92,479.36,63.77
+ORD-0024,2025-12-10,Kiran Reddy,Backpack,Accessories,South,4,41.7,166.8,29.99
+ORD-0025,2025-01-11,Neha Gupta,Desk,Furniture,West,2,237.4,474.8,53.56
+ORD-0026,2025-01-31,Arjun Mehta,Backpack,Accessories,South,4,36.06,144.24,34.84
+ORD-0027,2025-12-09,Priya Reddy,Mouse,Electronics,North,6,22.85,137.1,20.24
+ORD-0028,2025-07-28,Ananya Rao,Printer,Electronics,South,8,151.78,1214.24,236.28
+ORD-0029,2025-01-28,Priya Reddy,Mouse,Electronics,North,7,24.27,169.89,30.96
+ORD-0030,2025-04-09,Aarav Sharma,Monitor,Electronics,West,6,233.23,1399.38,170.52
+ORD-0031,2025-05-08,Arjun Mehta,Mouse,Electronics,West,3,24.61,73.83,11.5
+ORD-0032,2025-01-08,Neha Gupta,Monitor,Electronics,North,1,226.69,226.69,47.18
+ORD-0033,2025-07-25,Ananya Rao,Monitor,Electronics,South,7,219.37,1535.59,219.2
+ORD-0034,2025-08-21,Rahul Kumar,Laptop,Electronics,West,1,713.09,713.09,109.13
+ORD-0035,2025-01-30,Kiran Reddy,Office Chair,Furniture,West,3,168.84,506.52,72.71
+ORD-0036,2025-09-15,Pooja Verma,Backpack,Accessories,North,6,36.46,218.76,47.43
+ORD-0037,2025-02-04,Rahul Kumar,Headset,Electronics,North,2,58.86,117.72,13.39
+ORD-0038,2025-02-11,Kiran Reddy,Mouse,Electronics,North,4,25.39,101.56,10.96
+ORD-0039,2025-05-03,Rohan Das,Notebook,Office Supplies,East,5,7.53,37.65,9.16
+ORD-0040,2025-02-07,Kiran Reddy,Office Chair,Furniture,South,5,178.46,892.3,255.02
+ORD-0041,2025-03-09,Neha Gupta,Laptop,Electronics,North,2,654.89,1309.78,263.5
+ORD-0042,2025-10-06,Priya Reddy,Desk,Furniture,South,6,239.25,1435.5,269.35
+ORD-0043,2025-03-10,Divya Nair,Office Chair,Furniture,North,5,195.54,977.7,118.03
+ORD-0044,2025-06-25,Priya Reddy,Office Chair,Furniture,North,3,171.8,515.4,113.89
+ORD-0045,2025-01-27,Rohan Das,Mouse,Electronics,East,8,23.76,190.08,53.53
+ORD-0046,2025-03-08,Rohan Das,Monitor,Electronics,West,5,199.94,999.7,166.66
+ORD-0047,2025-12-20,Rahul Kumar,Office Chair,Furniture,West,7,182.19,1275.33,156.07
+ORD-0048,2025-03-07,Arjun Mehta,Keyboard,Electronics,North,6,45.74,274.44,35.57
+ORD-0049,2025-05-08,Vikram Singh,Laptop,Electronics,East,1,701.86,701.86,99.67
+ORD-0050,2025-03-25,Sneha Patel,Monitor,Electronics,West,3,238.73,716.19,105.53
+ORD-0051,2025-07-30,Kiran Reddy,Keyboard,Electronics,North,3,47.13,141.39,23.53
+ORD-0052,2025-08-29,Vikram Singh,Mouse,Electronics,South,2,24.41,48.82,5.26
+ORD-0053,2025-04-27,Ananya Rao,Mouse,Electronics,West,6,24.03,144.18,37.35
+ORD-0054,2025-05-23,Aarav Sharma,Mouse,Electronics,South,7,24.14,168.98,46.11
+ORD-0055,2025-05-14,Rohan Das,Desk,Furniture,West,6,271.96,1631.76,200.82
+ORD-0056,2025-06-10,Divya Nair,Keyboard,Electronics,East,1,41.48,41.48,7.75
+ORD-0057,2025-01-23,Divya Nair,Notebook,Office Supplies,North,7,8.64,60.48,8.35
+ORD-0058,2025-06-19,Aarav Sharma,Notebook,Office Supplies,South,6,7.89,47.34,13.72
+ORD-0059,2025-06-17,Sneha Patel,Backpack,Accessories,North,5,40.06,200.3,46.75
+ORD-0060,2025-07-14,Pooja Verma,Notebook,Office Supplies,East,3,7.51,22.53,5.25
+ORD-0061,2025-05-27,Divya Nair,Keyboard,Electronics,East,7,45.43,318.01,31.83
+ORD-0062,2025-09-19,Kiran Reddy,Mouse,Electronics,East,8,24.71,197.68,46.48
+ORD-0063,2025-11-14,Pooja Verma,Printer,Electronics,South,2,153.08,306.16,71.27
+ORD-0064,2025-01-13,Priya Reddy,Desk,Furniture,South,5,236.23,1181.15,165.16
+ORD-0065,2025-10-22,Ananya Rao,Laptop,Electronics,West,2,644.2,1288.4,357.18
+ORD-0066,2025-12-19,Pooja Verma,Mouse,Electronics,West,8,24.5,196.0,25.38
+ORD-0067,2025-09-23,Priya Reddy,Laptop,Electronics,West,4,607.87,2431.48,709.0
+ORD-0068,2025-12-08,Aarav Sharma,Printer,Electronics,South,2,158.61,317.22,82.57
+ORD-0069,2025-09-16,Arjun Mehta,Headset,Electronics,East,8,56.24,449.92,109.72
+ORD-0070,2025-05-13,Arjun Mehta,Notebook,Office Supplies,West,3,8.39,25.17,4.91
+ORD-0071,2025-02-09,Rohan Das,Mouse,Electronics,East,8,25.63,205.04,31.76
+ORD-0072,2025-03-12,Ananya Rao,Office Chair,Furniture,East,6,173.51,1041.06,216.57
+ORD-0073,2025-07-28,Ananya Rao,Keyboard,Electronics,West,3,46.86,140.58,15.86
+ORD-0074,2025-07-19,Arjun Mehta,Desk,Furniture,West,7,228.11,1596.77,425.66
+ORD-0075,2025-06-02,Pooja Verma,Backpack,Accessories,North,7,39.82,278.74,80.43
+ORD-0076,2025-01-15,Kiran Reddy,Notebook,Office Supplies,South,8,7.55,60.4,11.3
+ORD-0077,2025-11-15,Sneha Patel,Notebook,Office Supplies,West,3,8.54,25.62,7.27
+ORD-0078,2025-08-25,Aarav Sharma,Headset,Electronics,West,1,50.42,50.42,9.36
+ORD-0079,2025-06-22,Aarav Sharma,Keyboard,Electronics,East,7,43.45,304.15,58.07
+ORD-0080,2025-10-04,Vikram Singh,Notebook,Office Supplies,West,5,8.54,42.7,8.29
+ORD-0081,2025-01-16,Sneha Patel,Laptop,Electronics,South,2,686.56,1373.12,316.3
+ORD-0082,2025-02-28,Ananya Rao,Mouse,Electronics,North,3,23.69,71.07,13.84
+ORD-0083,2025-11-07,Ananya Rao,Backpack,Accessories,West,5,42.14,210.7,28.14
+ORD-0084,2025-10-22,Rahul Kumar,Monitor,Electronics,East,2,223.46,446.92,127.72
+ORD-0085,2025-05-05,Kiran Reddy,Notebook,Office Supplies,South,2,8.15,16.3,4.34
+ORD-0086,2025-01-22,Pooja Verma,Monitor,Electronics,East,2,233.03,466.06,99.36
+ORD-0087,2025-01-07,Arjun Mehta,Desk,Furniture,West,6,228.45,1370.7,314.59
+ORD-0088,2025-08-24,Neha Gupta,Notebook,Office Supplies,North,7,8.74,61.18,13.9
+ORD-0089,2025-09-05,Kiran Reddy,Keyboard,Electronics,South,5,46.04,230.2,65.36
+ORD-0090,2025-02-14,Kiran Reddy,Printer,Electronics,East,6,171.25,1027.5,273.47
+ORD-0091,2025-06-22,Neha Gupta,Office Chair,Furniture,South,8,182.51,1460.08,341.13
+ORD-0092,2025-05-13,Neha Gupta,Laptop,Electronics,East,3,648.38,1945.14,332.55
+ORD-0093,2025-05-04,Vikram Singh,Desk,Furniture,East,1,250.83,250.83,34.67
+ORD-0094,2025-01-09,Neha Gupta,Notebook,Office Supplies,South,8,8.23,65.84,13.05
+ORD-0095,2025-10-25,Vikram Singh,Monitor,Electronics,South,7,228.44,1599.08,257.84
+ORD-0096,2025-06-30,Neha Gupta,Desk,Furniture,East,7,274.83,1923.81,404.15
+ORD-0097,2025-06-11,Vikram Singh,Printer,Electronics,East,5,151.38,756.9,184.88
+ORD-0098,2025-10-29,Pooja Verma,Monitor,Electronics,South,4,207.52,830.08,163.39
+ORD-0099,2025-07-04,Divya Nair,Headset,Electronics,East,2,58.66,117.32,18.68
+ORD-0100,2025-10-11,Vikram Singh,Keyboard,Electronics,North,3,42.97,128.91,38.01
